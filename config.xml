@@ -5,7 +5,7 @@
         id        = "com.trajectory.mobileapp"
         versionCode = "2"
         android-versionCode="2"
-        version   = "2.0">
+        version   = "2.01">
     <name>Trajectory Education</name>
 
     <description>
